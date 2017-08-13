@@ -1,0 +1,11 @@
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\Email.NET.dll
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\Email.NET.xml
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\victor\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
